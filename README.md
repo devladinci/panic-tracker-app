@@ -25,7 +25,9 @@ Four years ago, I created this app to support people struggling with panic attac
 
 ## 🖼 Screenshots
 
-TODO
+![home](https://github.com/user-attachments/assets/ba6b54e1-14c1-425d-a2fe-3f2220054291)
+![insights](https://github.com/user-attachments/assets/7e80aa89-1ac1-47fd-8146-9a903cb833d4)
+![profile](https://github.com/user-attachments/assets/0c14f6c0-c03c-4604-9df4-13faf3d0da51)
 
 ---
 
